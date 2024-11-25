@@ -1,0 +1,605 @@
+﻿This is a log file for Open Rails. Please include this file in bug reports.
+--------------------------------------------------------------------------------
+Date/time  = 11/25/2024 10:59:02 (2024-11-25 05:29:02Z)
+BIOS       = F.0C (Insyde)
+Processor  = Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz (4 threads, 2 cores, 2.4 GHz) (L1 Cache 32 KB) (L1 Cache 32 KB) (L2 Cache 256 KB) (L3 Cache 3072 KB)
+Memory     = 3.9 GB
+Video      = Intel(R) HD Graphics 4000 (2.0 GB RAM) (igdkmd64 10.18.10.4358)
+Display    = \\.\DISPLAY1 (1366 x 768, 32-bit, primary, 0 x 0)
+Sound      = Intel(R) Display Audio (intcdaud 6.16.0.3154)
+Sound      = Realtek High Definition Audio (rtkvhd64 6.0.1.7548)
+Disk       = C: (Local Fixed Disk, NTFS, 100.2 GB, 18.7 GB free)
+Disk       = D: (Local Fixed Disk, NTFS, 90.8 GB, 55.1 GB free)
+Disk       = E: (Local Fixed Disk, NTFS, 113.4 GB, 109.8 GB free)
+Disk       = F: (Local Fixed Disk, NTFS, 113.3 GB, 112.8 GB free)
+Disk       = G: (Local Fixed Disk, NTFS, 18.2 GB, 18.1 GB free)
+Disk       = H: (CD-ROM Disc, )
+OS         = Microsoft Windows 10 Pro 64-bit (10.0.14393)
+Runtimes   = 2.0.50727 SP2  3.0 SP2  3.5 SP1  4 Client  4 Full  4.0 Client 
+Runtime    = 4.0.30319.42000 (64bit)
+\\.\DISPLAY1 = Intel(R) HD Graphics 4000
+--------------------------------------------------------------------------------
+Version    = 1.5.1
+Build      = 0.0.8366.40920 (2022-11-27 22:44:00Z)
+Logfile    = C:\Users\Shruthi A\Desktop\OpenRailsLog.txt
+Executable = RunActivity.exe
+Argument   = -resume
+Argument   = C:\Users\Shruthi A\AppData\Roaming\Open Rails\22222 Hazrat Nizamuddin Mumbai CSMT Rajdhani Express  2024-11-04 19.26.08.save
+--------------------------------------------------------------------------------
+ActRandomizationLevel          =                0
+ActWeatherRandomizationLevel   =                0
+AdhesionFactor                 =                100
+AdhesionFactorChange           = (user set)     100
+AdhesionMovingAverageFilterSize =                10
+AdhesionProportionalToWeather  =                False
+Alerter                        =                False
+AlerterDisableExternal         =                True
+AntiAliasing                   = (user set)     1
+AuxActionEnabled               =                False
+AvatarURL                      =                http://openrails.org/images/support-logos.jpg
+BrakePipeChargingRate          =                21
+BreakCouplers                  =                False
+CarVibratingLevel              =                0
+CorrectQuestionableBrakingParams =                False
+CurveSpeedDependent            =                False
+DataLogger                     =                False
+DataLoggerSeparator            =                comma
+DataLogMisc                    =                False
+DataLogPerformance             =                True
+DataLogPhysics                 =                False
+DataLogSpeedUnits              =                route
+DataLogStart                   =                False
+DataLogStationStops            =                False
+DataLogSteamPerformance        =                False
+DataLogTrainSpeed              =                False
+DataLogTSContents              = (user set)     1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0
+DataLogTSInterval              =                10
+DayAmbientLight                =                20
+DirectXFeatureLevel            =                10_0
+DisableTCSScripts              =                False
+DistantMountains               =                True
+DistantMountainsViewingDistance = (user set)     50000
+DoubleWire                     =                False
+DynamicShadows                 = (user set)     False
+EvaluationFilename             =                OpenRailsEvaluation.txt
+ExternalSoundPassThruPercent   = (user set)     100
+FullScreen                     =                True
+GraduatedRelease               = (user set)     True
+HotStart                       =                True
+IsModeActivity                 =                True
+Language                       =                
+Letterbox2DCab                 =                False
+LODBias                        =                0
+LODViewingExtension            =                True
+Logging                        =                True
+LoggingFilename                =                OpenRailsLog.txt
+LoggingPath                    =                C:\Users\Shruthi A\Desktop
+Menu_Selection                 = (user set)     D:\Program Files (x86)\Microsoft Games\Train Simulator, D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011, D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\ACTIVITIES\22222 Hazrat Nizamuddin Mumbai CSMT Rajdhani Express.act, , , , , , 
+ModelInstancing                = (user set)     False
+Multiplayer                    =                False
+Multiplayer_Host               =                127.0.0.1
+Multiplayer_Port               =                30000
+Multiplayer_UpdateInterval     =                10
+Multiplayer_User               = (user set)     KRUNAL
+MultiplayerClient              =                False
+MultiplayerServer              =                False
+NoDieselEngineStart            =                False
+NoForcedRedAtStationStops      = (user set)     True
+OpenDoorsInAITrains            = (user set)     True
+OSDCarsState                   =                1
+OSDLocationsState              = (user set)     3
+PerformanceTuner               = (user set)     True
+PerformanceTunerTarget         = (user set)     30
+PrecipitationBoxHeight         =                100
+PrecipitationBoxLength         =                500
+PrecipitationBoxWidth          =                500
+PressureUnit                   =                Automatic
+Profiling                      =                False
+ProfilingFrameCount            =                0
+ProfilingTime                  =                0
+ReplayPauseBeforeEnd           =                True
+ReplayPauseBeforeEndS          =                0
+RetainersOnAllCars             =                False
+ScreenshotPath                 =                C:\Users\Shruthi A\Pictures\Open Rails
+ShadowAllShapes                =                False
+ShadowMapBlur                  =                True
+ShadowMapCount                 =                4
+ShadowMapDistance              =                750
+ShadowMapResolution            =                1024
+ShowAvatar                     =                False
+ShowErrorDialogs               =                True
+SignalLightGlow                =                False
+SimpleControlPhysics           =                False
+SoundDetailLevel               =                5
+SoundVolumePercent             =                100
+SpeedControl                   = (user set)     False
+SuperElevationGauge            = (user set)     1000
+SuperElevationMinLen           = (user set)     30
+SuppressConfirmations          =                False
+SuppressShapeWarnings          =                True
+TrackMonitorDisplayMode        =                0
+TTCreateTrainOnPoolUnderflow   =                True
+TTOutputTimetableFullEvaluation =                False
+TTOutputTimetableTrainInfo     =                False
+TTUseRestartDelays             =                True
+TunnelResistanceDependent      =                False
+Units                          =                Automatic
+Use3DCab                       =                True
+UseAdvancedAdhesion            = (user set)     False
+UseLargeAddressAware           = (user set)     False
+UseLocationPassingPaths        =                False
+UseMSTSEnv                     =                False
+UseSuperElevation              =                0
+VerboseConfigurationMessages   =                False
+VerticalSync                   = (user set)     False
+ViewingDistance                = (user set)     1500
+ViewingFOV                     =                45
+WebServerPort                  =                2150
+WindowGlass                    =                False
+WindowPosition_Activity        = (user set)     9, 33
+WindowPosition_CarOperations   =                50, 50
+WindowPosition_Compass         =                50, 0
+WindowPosition_ComposeMessage  =                50, 50
+WindowPosition_DriverAid       =                100, 100
+WindowPosition_Help            =                50, 50
+WindowPosition_MultiPlayer     = (user set)     100, 50
+WindowPosition_NextStation     =                0, 100
+WindowPosition_Quit            = (user set)     53, 51
+WindowPosition_Switch          =                0, 50
+WindowPosition_TrackMonitor    =                100, 0
+WindowPosition_TrainDpu        =                50, 50
+WindowPosition_TrainDriving    =                50, 50
+WindowPosition_TrainList       =                100, 0
+WindowPosition_TrainOperations = (user set)     100, 100
+WindowSize                     = (user set)     1366x768
+WindResistanceDependent        =                False
+Wire                           = (user set)     False
+WorldObjectDensity             =                49
+YoungestVersionFailedToRestore = (user set)     1.2.3766
+--------------------------------------------------------------------------------
+Mode       = Resume
+Route      = Mumbai2011
+Activity   = 22222 Hazrat Nizamuddin Mumbai CSMT Rajdhani Express (D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\ACTIVITIES\22222 Hazrat Nizamuddin Mumbai CSMT Rajdhani Express.act)
+--------------------------------------------------------------------------------
+Loading  TRK TDB SIGCFG
+
+Warning: Skipped duplicate SignalShape IND_CHANGER.S in D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\sigcfg.dat:line 1300
+
+Warning: 1 missing SignalShape(s) in D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\sigcfg.dat:line 1466
+
+ DAT ACT RDB CARSPAWN SIGSCR WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+Warning: Incomplete crossover : indices 104 and 103
+
+Warning: Invalid crossover : indices 259 and 258 : equal section : 1234
+
+Warning: Incomplete crossover : indices 544 and 543
+
+Warning: Incomplete crossover : indices 561 and 562
+
+Warning: Incomplete crossover : indices 562 and 3230
+
+Warning: Incomplete crossover : indices 565 and 566
+
+Warning: Incomplete crossover : indices 610 and 611
+
+Warning: Incomplete crossover : indices 612 and 613
+
+Warning: Incomplete crossover : indices 646 and 647
+
+Warning: Incomplete crossover : indices 679 and 678
+
+Warning: Incomplete crossover : indices 677 and 678
+
+Warning: Incomplete crossover : indices 491 and 492
+
+Warning: Incomplete crossover : indices 715 and 714
+
+Warning: Incomplete crossover : indices 733 and 732
+
+Warning: Invalid crossover : indices 879 and 880 : equal section : 4781
+
+Warning: Incomplete crossover : indices 887 and 888
+
+Warning: Incomplete crossover : indices 888 and 2633
+
+Warning: Incomplete crossover : indices 486 and 487
+
+Warning: Incomplete crossover : indices 714 and 713
+
+Warning: Incomplete crossover : indices 713 and 5226
+
+Information: Signal 1686 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14173
+
+Information: Signal 1687 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14175
+
+Information: Signal 1688 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14174
+
+Information: Signal 1689 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14171
+
+Information: Signal 1690 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14170
+
+Information: Signal 1691 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14172
+
+Information: Signal 1692 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14169
+
+Information: Signal 1693 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14168
+
+Information: Signal 1694 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14167
+
+Information: Signal 1695 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14166
+
+Information: Signal 1696 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14165
+
+Information: Signal 1697 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 14164
+
+Information: Signal 1698 ; TC : 9325 ; NextTC : -1 ; TN : 4835 ; TDB (0) : 2369
+
+Information: Signal 1949 ; TC : 9499 ; NextTC : -1 ; TN : 5542 ; TDB (0) : 3659
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\WR PINK BOMBARDIER FRONT\WR_PINK_BOMBARDIER_ENG_FRONT.eng locomotive's CabView references non-existent wap4.cvf
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\WR PINK BOMBARDIER REAR\WR_PINK_BOMBARDIER_ENG_REAR.eng locomotive's CabView references non-existent wap4.cvf
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_CSMT_AMI_EXP_SLR.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_PDY_CAPE_EXP_SLR.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_CSMT_AMI_EXP_2AC.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_CSMT_AMI_EXP_2AC.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_CSMT_AMI_EXP_GS.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_PDY_EXP_GS.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_CSMT_AMI_EXP_3AC.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_PDY_CAPE_EXP_3AC.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_CSMT_AMI_EXP_SLEEPER.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\CSMT_AMI_SF_EXP\UTKRISHT_EXP_SLEEPER.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\VG_NEW_LHB_SLEEPER\New_LHB_Sleeper.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\VG_NEW_LHB_SLEEPER\New_New_LHB_Sleeper.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\WDM3DED\WDM3DED.eng locomotive's CabView references non-existent ..\..\Common.Cab\AU_Alco_Hood\AU_DL531.cvf
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UT_TVC_NZM_SLR.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UTKRISHT_SLR.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UT_TVC_NZM_3AC.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UTKRISHT_3AC.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UT_TVC_NZM_2AC.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UTKRISHT_2AC.s
+
+Warning: D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UT_TVC_NZM_SLEEPER.wag references non-existent shape D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\TRIVANDRUM_NIZAMUDIN_SF_EXPRESS_COACHES\UTKRISHT_SLEEPER.s
+
+ ENV SIGCFG SIGCFG
+
+Warning: Skipped duplicate SignalShape IND_CHANGER.S in D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\sigcfg.dat:line 1300
+
+Warning: 1 missing SignalShape(s) in D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\sigcfg.dat:line 1466
+
+ TTYPE
+
+Information: Allocation for 87,500 particles:
+
+     16,800,000 B RAM vertex data
+      2,100,000 B RAM index data (temporary)
+     16,800,000 B VRAM DynamicVertexBuffer
+      2,100,000 B VRAM IndexBuffer
+
+TTTTTTTTTLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLWSSWSSSSSSSSSSSSS
+
+Information: Skipped unknown shader name Diffuse first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_block3.s
+
+Information: Skipped unknown lighting model index 0 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_block3.s
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+Information: Reindexing semaphore entries of signal type switchlamp for compatibility with MSTS
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+Information: Skipped unknown lighting model index 1 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2bldgs.s
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+Information: Skipped unknown lighting model index 2 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\2plshed3.s
+
+Information: Skipped unknown lighting model index 3 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\2plshed3.s
+
+Information: Skipped unknown lighting model index 4 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\2plshed3.s
+
+Information: Skipped unknown lighting model index 5 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\2plshed3.s
+
+Information: Skipped unknown lighting model index 6 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\2plshed3.s
+
+SSSSSSSSSSSSSSSSSSSSSS
+
+Information: Skipped unknown lighting model index -1 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\jp2concwarehse.s
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WWSSSSSSSSSSSSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$CSCS
+
+Warning: 4 missing Stream(s) in D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\sound\BR642eng.sms:line 109
+
+CS
+
+Warning: 1 missing Stream(s) in D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\sound\aswwag.sms:line 223
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+CS
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+CS
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+CS
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+C
+
+Warning: Cannot find D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\ car sound file aswwag1.sms
+
+CCSCSSS
+
+Warning: 1 missing Stream(s) in D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\WR PINK BOMBARDIER FRONT\sound\..//..//SERIES2000//Sound//2000Cab.sms:line 304
+
+CSCCCCCCCCCCSSS
+
+Warning: 1 missing Stream(s) in D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\WR PINK BOMBARDIER REAR\sound\..//..//SERIES2000//Sound//2000Cab.sms:line 304
+
+CCCCCCCCCCCCCSCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+Warning: Cab control frame count 3 is larger than the number of frames 2*1=2 (some frames will be blank) for D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\CABVIEW\Button6.ace:day
+
+Warning: Cab control frame count 2 is larger than the number of frames 1*1=1 (some frames will be blank) for D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\CABVIEW\sander.ace:day
+
+Information: Game.ReplaceState(GameStateViewer3D)  GameStateViewer3D
+
+Loader: Time       = 00:03:04.8237186 ms
+Loader: Expected   = 0 bytes
+Loader: Actual     = 218,090,146 bytes
+Loader: Difference = 218,090,146 bytes (∞)
+
+SSSS
+
+Warning: File ../../ACELA/SOUND/x_acela_wap7startup.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\sound
+
+SCCC
+
+Warning: File wap_horn_s1.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\sound
+
+CCCC
+
+Warning: Train 54 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 54 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+Warning: Train 172 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 172 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+CCCCCCCCCCCCCCCCCCCCCTTTWSSSSSSSSSSSSSS
+
+Information: Skipped unknown lighting model index 7 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 8 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 9 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 10 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 11 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 12 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 13 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 14 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 15 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+Information: Skipped unknown lighting model index 16 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\m_2stalls.s
+
+SSSSSWSSSSSSSSSSSS$WCCSSSCCCCCCCCCCCC
+
+Warning: Train 55 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 55 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+Warning: Train 173 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 173 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+Warning: Train 56 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 56 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+CCCCCCCCCCCCCCCCC
+
+Warning: Train 174 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 174 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSS$WCSSSCCCCCCCCCCCSSS
+
+Warning: Train 57 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 57 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+TTLLLLLLLWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSWCSSSCCCCCCCCCCCTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WWSSSSSSS$CCCCCCCCCCCCCCCCCCCCCCCC
+
+Warning: File LHB60.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\sound
+
+Warning: File wap_horn_s1.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\sound
+
+CCCCCCCCCCCC
+
+Warning: Train 175 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 175 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+TTTWSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSS$WCCCCCCCCCCCCTTTLLLWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WS$WCCCCCCCCCCCCTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSTTTWSSSSSSSSSSSSSSSSSSSSSSSSSWWCCCCCCCCCCCCCCCCSCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCTTTWSSWSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+Warning: Train 58 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+S
+
+Information: Train 58 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$TTTWWSWCSSSCCCCCCCCCCCSSSTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSWCSSSCSCCCCCCCCCCSSSCSCCCCCCCCCCCCCCCCCCCCCCCCTTTWWWSSSSSSSSSSSSSSTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WCSSSCCCCCCCCCCCSSSCCCC
+
+Warning: Train 176 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 176 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+CCCCCCCCTTTWWWTTTWSWSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$CCCCCTTTWWWCCCCCCCCCCCCSSSTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WCCCCCSCCCCCCCCCCCCCCCCCC
+
+Warning: File LHB60.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\sound
+
+C
+
+Warning: Train 59 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 59 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+CCCCCCCCCCCC
+
+Warning: File ../../ACELA/SOUND/x_acela_wap7startup.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\sound
+
+Warning: File wap_horn_s1.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\sound
+
+TTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSWCSSSCCCCCCCCCCCSSSTWWWCSSSCCCCCCCCCCCSSSTTTWSSSWSSSSSSSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+Information: Skipped unknown lighting model index -4 first seen in shape d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\jp1truck1.s
+
+S$
+
+Warning: Train 177 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 177 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+CCCC
+
+Warning: Train 60 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 60 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+CCCCCCCCCSCCCCCCCCCCCCCCCCCCCCCCCTTTWWWTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WWSCCCCTTTWSSSSSSSSSSSSSSSSSSSSSSS$WSSWCSSSCSCCCCCTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+Information: Reindexing semaphore entries of signal type switchlamp for compatibility with MSTS
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WWCSCCCCCCCCCCCCSSSCCCCCCCCCCCCCSCCCCCCCCCCCTTTWSSSSSSSWWSSS
+
+Warning: Cannot parse the constant number - in D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\Shapes\MetroPillar2mRt.Sd:line 7
+
+S
+
+Warning: Cannot parse the constant number - in d:\program files (x86)\microsoft games\train simulator\routes\mumbai2011\shapes\metropillar2mrt.sd:line 7
+
+SSSSSS
+
+Warning: Cannot parse the constant number - in D:\Program Files (x86)\Microsoft Games\Train Simulator\ROUTES\Mumbai2011\Shapes\MetroPillar2mRt.Sd:line 7
+
+SSSSSSSSSSSSSSSSSSSSSSSSTTTLLLLLWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSWSCSSSCCCCCCCCCCCSSSCCCCCCCCCCCCTTTLWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSWSSSSSSSSSSSSSTTTWSSSSSSSSSSSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WCSCSCCCCCCCCCCCSSSCCCCCCCCCCCSSS
+
+Warning: Train 61 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 61 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+TTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WCSSSCSCCCCCCCCCCSSS
+
+Warning: Train 179 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 179 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+CCCCCCCCCCCCCSTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSWCCCCCCCCCCCCCCCCCCCCCCCWWWCCCCCCCCCCCCTTTWWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$CSCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+List of commands to replay saved
+TTTWWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$CCCCCCCCCCCC
+
+Warning: File LHB60.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\Cst Nzm Rajdhani\sound
+
+CTTTLLLLLLLWWWCCCCCCCCCTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+Warning: Train 62 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 62 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WCCCSSSCCCCCCCCCCCCCCCCCCSSSCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+Warning: Train 180 Service Ambernath Csmt Slow Local : platform 1649 is not on route
+
+Information: Train 180 Service Ambernath Csmt Slow Local : cannot find platform 1649
+
+CCCCCCCCCCCCCCCCCCCCC
+List of commands to replay saved
+CCCCCTTTWWW
+
+Warning: File wap_horn_s1.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\sound
+
+CCCCTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WCCSCCCCCCCTTTWWWCCCCCCCCCCCCCCCCCCTTTWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WCSCCCCCCCCCCCCCCCCCCCCCCCCTTTWWWCCCCCCCCCCCCCCSCCCCCCCCCCCCC
+
+Warning: Train 63 Service Csmt Kalyan Slow Local : platform 1568 is not on route
+
+Information: Train 63 Service Csmt Kalyan Slow Local : cannot find platform 1568
+
+CCCCCCCCCCCC
+
+Warning: File ../../ACELA/SOUND/x_acela_wap7startup.wav missing from D:\Program Files (x86)\Microsoft Games\Train Simulator\trains\trainset\KYN_WAP7\sound
+
+
+List of commands to replay saved
+CCCCCCCCCCCCCCCCCCCCCCC
+
+Information: Game.PopState()  
+
